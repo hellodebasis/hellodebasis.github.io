@@ -1,0 +1,11 @@
+
+body{margin:0;font-family:Segoe UI,sans-serif;background:#f8fafc;color:#1e293b}
+.hero{background:#0f172a;color:white;text-align:center;padding:60px 20px}
+.profile-img{width:220px;height:220px;border-radius:50%;object-fit:cover;border:6px solid white}
+h1{margin:15px 0 5px}
+h2{margin:10px 0}
+section{max-width:1100px;margin:auto;padding:50px 20px}
+.card{background:white;padding:20px;margin:15px 0;border-radius:12px;box-shadow:0 2px 12px rgba(0,0,0,.08)}
+.skills span{display:inline-block;background:#2563eb;color:white;padding:10px 15px;margin:5px;border-radius:25px}
+.btn{display:inline-block;margin-top:15px;background:#2563eb;color:white;padding:12px 20px;text-decoration:none;border-radius:6px}
+footer{background:#0f172a;color:white;text-align:center;padding:20px}
